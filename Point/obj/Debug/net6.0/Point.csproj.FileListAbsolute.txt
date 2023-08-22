@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\TwoProjectDemo\Point\obj\Debug\net6.0\Point.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TwoProjectDemo\Point\obj\Debug\net6.0\Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TwoProjectDemo\Point\obj\Debug\net6.0\Point.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TwoProjectDemo\Point\obj\Debug\net6.0\Point.AssemblyInfo.cs
+C:\Users\admin\source\repos\TwoProjectDemo\Point\obj\Debug\net6.0\Point.csproj.CoreCompileInputs.cache
